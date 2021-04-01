@@ -6,7 +6,7 @@
 			<li class="interview-block">
 				<a href="/diversity/interview/kobayashi-mitsuru/">
 					<div class="interview-block__image">
-						<div class="interview-block__img u-bg-fill" style="background-image: url(https://dev.wunderbar.co.jp/diversity/wp-content/uploads/2021/03/ARP_7262@2x.png);"></div>
+						<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7262@2x.png);"></div>
 					</div>
 					<p class="interview-block__tagline">職場づくりの出発点は、<br />
 ダイセスへの取組でした。</p>

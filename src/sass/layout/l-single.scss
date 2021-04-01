@@ -35,11 +35,11 @@
     font-size: 2.7rem;
   }
 
-  br {
-    @include max-screen($breakpoint-mobile) {
-      display: none;
-    }
-  }
+  // br {
+  //   @include max-screen($breakpoint-mobile) {
+  //     display: none;
+  //   }
+  // }
 }
 
 .l-single__eyecatch-history {
@@ -267,11 +267,11 @@
       letter-spacing: -.01em;
     }
 
-    br {
-      @include max-screen($breakpoint-mobile) {
-        display: none;
-      }
-    }
+    // br {
+    //   @include max-screen($breakpoint-mobile) {
+    //     display: none;
+    //   }
+    // }
   }
   p {
     margin-bottom: 20px;
@@ -314,8 +314,6 @@
   }
 
   .l-interview__items {
-    z-index: 1;
-    
     .interview-block {
       .interview-block__tagline {
         font-size: 1.5rem;
@@ -350,6 +348,7 @@
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  pointer-events: none;
 
   @include max-screen($breakpoint-mobile) {
     width: 100%;
@@ -366,6 +365,7 @@
   border-radius: 100%;
   background-color: #000;
   transition: transform .3s ease;
+  pointer-events: auto;
 
   @include max-screen($breakpoint-mobile) {
     width: 40px;
@@ -391,8 +391,6 @@
   }
 
   &:hover {
-    transform: scale(1.17);
-
     &:before {
       left: 45%;
     }
