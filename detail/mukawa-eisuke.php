@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10199@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10199-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -31,7 +31,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10157@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10157-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>子育てという共通の話題が<br />
 職場づくりに役立っています。</h3>
@@ -41,7 +41,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10173@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10173-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>在宅勤務を活用することで、<br />
 より育児に参画できるように。</h3>
@@ -52,7 +52,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10220@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10220-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>SDGsを地で行くような会社に<br />
 生まれ変わりました。</h3>

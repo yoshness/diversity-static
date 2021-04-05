@@ -44,7 +44,7 @@
 				<li class="interview-block">
 					<a href="/diversity/interview/kano-motoharu/">
 						<div class="interview-block__image">
-							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7155@2x-1.png);"></div>
+							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7155-min.jpg);"></div>
 						</div>
 						<p class="interview-block__tagline">周囲のサポートのおかげで<br />
 現場監督でも育休を取得。</p>

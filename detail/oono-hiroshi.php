@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7428-1@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7428-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7359@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7359-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>建物の1から10のすべてを担当。<br />
 施工現場一筋でやってきました。</h3>
@@ -40,7 +40,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7400_suzuki02@2x.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7400_suzuki02-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>様々な世代が協力して働く。<br />
 そんな職場に愛着があります。</h3>
@@ -51,7 +51,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7438@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7438-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>休日は、近未来の建物が出てくる<br />
 SF作品観賞でリフレッシュ。</h3>

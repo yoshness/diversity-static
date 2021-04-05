@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7155@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7155-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7202@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7202-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>連日の育児は仕事より大変。<br />
 でも、心はリフレッシュ。</h3>
@@ -40,7 +40,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7181@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7181-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>育休をきっかけに広がった<br />
 コミュニケーションの輪。</h3>
@@ -51,7 +51,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7171@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7171-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>子供が大きくなったら、<br />
 ここはパパが建てたと自慢したい。</h3>

@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7624@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7624-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -31,7 +31,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7693@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7693-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>平日の有給休暇を活用しながら。<br />
 育児にも仕事にも奮闘中。</h3>
@@ -41,7 +41,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7606@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7606-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>「お迎え、大丈夫？」の声掛けに<br />
 すごく助けられています。</h3>
@@ -52,7 +52,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7635@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7635-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>社員の声から生まれた制度も。<br />
 会社が変わる姿に達成感を感じます。</h3>

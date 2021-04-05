@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7262@2x.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7262-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -31,7 +31,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7281@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7281-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>実績を評価する会社で<br />
 実力を試したくて大東建託へ。</h3>
@@ -41,7 +41,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7306@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7306-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>スタッフが能力を発揮できる<br />
 働きやすい職場をつくること。</h3>
@@ -52,7 +52,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7349@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7349-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>「フレックス ノー残業デー」の<br />
 導入を通じダイセスで大躍進。</h3>

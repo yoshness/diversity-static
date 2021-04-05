@@ -44,7 +44,7 @@
 								<li class="interview-block">
 					<a href="/diversity/interview/kobayashi-mitsuru/">
 						<div class="interview-block__image">
-							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7262@2x.png);"></div>
+							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7262-min.jpg);"></div>
 						</div>
 						<p class="interview-block__tagline">職場づくりの出発点は、<br />
 ダイセスへの取組でした。</p>
@@ -60,7 +60,7 @@
 								<li class="interview-block">
 					<a href="/diversity/interview/mukawa-eisuke/">
 						<div class="interview-block__image">
-							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10199@2x-1.png);"></div>
+							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10199-min.jpg);"></div>
 						</div>
 						<p class="interview-block__tagline">イクメン、イクボスの<br />
 ロールモデルが目標です。</p>

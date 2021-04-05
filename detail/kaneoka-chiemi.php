@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta9941-1@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta9941-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -28,7 +28,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10021@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10021-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>転職後も大好きだった大東建託で<br />
 再び頑張ってみようと決意。</h3>
@@ -38,7 +38,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta9978@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta9978-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>大切なのは特別な経歴ではなく、<br />
 お客様と世間話ができること。</h3>
@@ -49,7 +49,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta9986@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta9986-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>流れに乗ってみるのも私の道。<br />
 支店長への昇進が目標になりました。</h3>

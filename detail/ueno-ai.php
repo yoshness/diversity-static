@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7462-1@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7462-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -29,7 +29,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7559@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7559-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>「私がこの建物を作ったんだ」<br />
 初めて受け持った現場で感動。</h3>
@@ -39,7 +39,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7481@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7481-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>社内フットサルや旅行など、<br />
 プライベートも充実。</h3>
@@ -50,7 +50,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7519@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7519-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>施工技師＆建築士の資格を勉強中。<br />
 欲張りだけど、今が頑張り時。</h3>

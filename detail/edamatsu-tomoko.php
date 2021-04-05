@@ -1,6 +1,6 @@
 <main class="l-single">
 	<div class="l-cover l-cover--detail">
-				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10042@2x-1.png);">
+				<div class="l-cover-bg u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10042-min.jpg);">
 	</div>
 	<div class="l-single__eyecatch u-flex">
 		<div class="l-single__eyecatch-left">
@@ -29,7 +29,7 @@
 		</div>
 	</div>
 	<div class="l-single__block u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10122@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10122-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>自分で仕事の調整ができるから、<br />
 自宅で子供を迎えてあげられる。</h3>
@@ -40,7 +40,7 @@
 		</div>
 	</div>
 	<div class="l-single__block l-single__block--alternate u-flex">
-		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10092@2x-1.png);"></div>
+		<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10092-min.jpg);"></div>
 		<div class="l-single__block-content">
 			<h3>女性の働きやすさを真剣に考える<br />
 一生懸命で熱い会社。</h3>
@@ -51,7 +51,7 @@
 	</div>
 	<div class="l-single__block l-single__block--wide">
 		<div class="l-container u-flex">
-			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10082@2x-1.png);"></div>
+			<div class="l-single__block__image u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/20210226_daito-kentaku_delta10082-min.jpg);"></div>
 			<div class="l-single__block-content">
 				<h3>仕事の上でも人生においても、<br />
 この転職が転機になりました。</h3>

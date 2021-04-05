@@ -44,7 +44,7 @@
 				<li class="interview-block">
 					<a href="/diversity/interview/oono-hiroshi/">
 						<div class="interview-block__image">
-							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7428-1@2x-1.png);"></div>
+							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/03/ARP_7428-min.jpg);"></div>
 						</div>
 						<p class="interview-block__tagline">60代なんてまだ青春。<br />
 70歳までは元気に働きたい。</p>
