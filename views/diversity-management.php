@@ -213,7 +213,7 @@
 
         <!-- descri-link -->
         <div class="descri-link">
-          <a class="hover_op01" href="/corporate/outline/course.html" target="_blank" rel="noopener noreferrer">会社理念体系はこちら</a>
+          <a class="hover_op01" href="/corporate/outline/course.html" target="_blank">会社理念体系はこちら</a>
         </div>
 
       </div>
@@ -270,7 +270,7 @@
       
       <ul class="linkArea onlyPC">
         <li class="linkArea-item">
-          <a class="hover_op01" href="/corporate/csr/torikumi/diversity.html" target="_blank" rel="noopener noreferrer">ダイバーシティ推進体制の詳細はこちら</a>
+          <a class="hover_op01" href="/corporate/csr/torikumi/diversity.html" target="_blank">ダイバーシティ推進体制の詳細はこちら</a>
         </li>
         <li class="linkArea-item">
           <a class="hover_op01" href="/diversity/womenomics/#targetnumber">2023年の数値目標はこちら</a>
@@ -298,7 +298,7 @@
 
     <ul class="linkArea onlySP">
       <li class="linkArea-item">
-        <a class="hover_op01" href="/corporate/csr/torikumi/diversity.html" target="_blank" rel="noopener noreferrer">ダイバーシティ推進体制の詳細はこちら</a>
+        <a class="hover_op01" href="/corporate/csr/torikumi/diversity.html" target="_blank">ダイバーシティ推進体制の詳細はこちら</a>
       </li>
       <li class="linkArea-item">
         <a class="hover_op01" href="/diversity/womenomics/#targetnumber">2023年の数値目標はこちら</a>
@@ -340,7 +340,7 @@
 
 
     <div class="linkArea">
-      <a class="hover_op01" href="/corporate/pr/info/2019/aqehc4000000bynz-att/msci_0717.pdf" target="_blank" rel="noopener noreferrer">ニュースリリースはこちら</a>
+      <a class="hover_op01" href="/corporate/pr/info/2019/aqehc4000000bynz-att/msci_0717.pdf" target="_blank">ニュースリリースはこちら</a>
     </div>
 
   </div>

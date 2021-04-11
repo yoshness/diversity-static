@@ -21,7 +21,7 @@
         <a 
           href="https://www.facebook.com/kentaku.co.jp/" 
           target="_blank" 
-          rel="noopener noreferrer"
+         
         >
         <img src="/diversity/public/resource/img/common/icon_facebook.svg" alt="facebookのアイコン" width="27.83" height="27.92">
         </a>
@@ -30,7 +30,7 @@
         <a 
           href="https://twitter.com/kentaku_co_jp" 
           target="_blank" 
-          rel="noopener noreferrer"
+         
         >
           <img src="/diversity/public/resource/img/common/icon_twitter.svg" alt="twitterのアイコン" width="28" height="28">
         </a>
@@ -39,7 +39,7 @@
         <a 
           href="https://www.youtube.com/channel/UCfM0gPCsMDdf79jFVODiQkQ" 
           target="_blank" 
-          rel="noopener noreferrer"
+         
         >
           <!-- <img src="/diversity/public/resource/img/common/icon_youtube.svg" alt="youtubeのアイコン" width="35" height="36"> -->
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="36" viewBox="0 0 35 36"><defs><pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1024 1024">

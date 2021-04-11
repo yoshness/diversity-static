@@ -166,7 +166,7 @@
             </a>
           </li>
                     <li class="card-item">
-            <a class="card-link" href="https://forecia-japan.com/interview_post/%E5%A4%A7%E6%9D%B1%E5%BB%BA%E8%A8%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%A7%98/" target="_blank" rel="noopener noreferrer">
+            <a class="card-link" href="https://forecia-japan.com/interview_post/%E5%A4%A7%E6%9D%B1%E5%BB%BA%E8%A8%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%A7%98/" target="_blank">
               <p class="card-txt onlyPC">2021.01.20</p>
               <div class="card-img">
                 <img 
@@ -189,7 +189,7 @@
             </a>
           </li>
                     <li class="card-item">
-            <a class="card-link" href="https://www.kentaku.co.jp/corporate/pr/info/2020/withcorona_hatarakikata_0903.html" target="_blank" rel="noopener noreferrer">
+            <a class="card-link" href="https://www.kentaku.co.jp/corporate/pr/info/2020/withcorona_hatarakikata_0903.html" target="_blank">
               <p class="card-txt onlyPC">2020.09.03</p>
               <div class="card-img">
                 <img 
@@ -235,7 +235,7 @@
             </a>
           </li>
                     <li class="card-item">
-            <a class="card-link" href="https://www.kentaku.co.jp/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" target="_blank" rel="noopener noreferrer">
+            <a class="card-link" href="https://www.kentaku.co.jp/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" target="_blank">
               <p class="card-txt onlyPC">2020.02.13</p>
               <div class="card-img">
                 <img 
@@ -258,7 +258,7 @@
             </a>
           </li>
                     <li class="card-item">
-            <a class="card-link" href="https://www.kentaku.co.jp/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" target="_blank" rel="noopener noreferrer">
+            <a class="card-link" href="https://www.kentaku.co.jp/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" target="_blank">
               <p class="card-txt onlyPC">2019.04.23</p>
               <div class="card-img">
                 <img 

@@ -92,7 +92,7 @@
 
     <div class="link">
       <p class="link-tit">詳しくはこちら</p>
-      <a class="link-bnr hover_op02" href="https://ryouritsu.mhlw.go.jp/hiroba/search_dtl.php?cn=790&pg=0&n=%E5%A4%A7%E6%9D%B1%E5%BB%BA%E8%A8%97&k=&ko=0&nw=&ew=&m=&w=&pw=&jw=&sw=&kw=&iw=&b=&l=&p=&view_count_id=2&disp_kind=" target="_blank" rel="noopener noreferrer">
+      <a class="link-bnr hover_op02" href="https://ryouritsu.mhlw.go.jp/hiroba/search_dtl.php?cn=790&pg=0&n=%E5%A4%A7%E6%9D%B1%E5%BB%BA%E8%A8%97&k=&ko=0&nw=&ew=&m=&w=&pw=&jw=&sw=&kw=&iw=&b=&l=&p=&view_count_id=2&disp_kind=" target="_blank">
         <img 
           src="/diversity/public/resource/img/work-life-balance/bnr_law01.jpg"
           srcset="/diversity/public/resource/img/work-life-balance/bnr_law01.jpg 1x, 
@@ -139,7 +139,7 @@
         <!-- linkArea -->
         <div class="linkArea">
           <p class="linkArea-tit">詳しくはこちら</p>
-          <a class="linkArea-img hover_op02" href="https://work-life-b.co.jp/mens_ikukyu_100/" target="_blank" rel="noopener noreferrer" >
+          <a class="linkArea-img hover_op02" href="https://work-life-b.co.jp/mens_ikukyu_100/" target="_blank" >
             <img
               src="/diversity/public/resource/img/work-life-balance/bnr_promotion01.jpg"
               srcset="

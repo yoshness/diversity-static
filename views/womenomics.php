@@ -57,7 +57,7 @@
 
     <!-- link -->
     <div class="link">
-      <a class="hover_op01" href="https://positive-ryouritsu.mhlw.go.jp/positivedb/detail?id=43" target="_blank" rel="noopener noreferrer">実績および行動計画はこちら</a>
+      <a class="hover_op01" href="https://positive-ryouritsu.mhlw.go.jp/positivedb/detail?id=43" target="_blank">実績および行動計画はこちら</a>
     </div>
 
   </div>
@@ -124,14 +124,14 @@
         <a 
           class="hover_op01" 
           href="/corporate/csr/torikumi/diversity.html" 
-          target="_blank" rel="noopener noreferrer"
+          target="_blank"
         >
           コーポレートサイトはこちら
         </a><br class="onlySP">
         <a  class="hover_op01" 
             href="/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" 
             target="_blank" 
-            rel="noopener noreferrer"
+           
         >
           ニュースレターはこちら
         </a><br class="onlySP">
@@ -159,7 +159,7 @@
         役員・従業員の全階層を対象とする体系化された人材育成プログラムにおいて、「Women’sキャリアデザインセミナー」「Women’sアカデミー」を開催。役員・管理職への登用を見据えて戦略的に人材育成を行っています。また「異業種交流会」や職種別キャリア支援等のフォロー体制を構築することで、女性の活躍を支援しています。併せて、育成する上司に対し、人材育成プログラムの中で女性の登用やダイバーシティ推進に関する教育を行い、評価にも組み込んでいます。
       </p>
       <p class="heading-link">
-        <a class="hover_op01" href="/corporate/csr/torikumi/nurture.html" target="_blank" rel="noopener noreferrer">人材育成プログラムはこちら</a>
+        <a class="hover_op01" href="/corporate/csr/torikumi/nurture.html" target="_blank">人材育成プログラムはこちら</a>
       </p>
     </div>
   </div>
@@ -365,7 +365,7 @@
             </li>
           </ul>
           <p class="job-link">
-            <a class="hover_op01" href="https://www.j-komachi.com/about" target="_blank" rel="noopener noreferrer">じゅうたく小町はこちら</a>
+            <a class="hover_op01" href="https://www.j-komachi.com/about" target="_blank">じゅうたく小町はこちら</a>
           </p>
         </div>
 
@@ -427,7 +427,7 @@
         <div class="bnrArea">
           <ul class="bnrArea-list">
             <li class="bnrArea-item">
-              <a class="hover_op02" href="http://ikumama-kentaku.com/" target="_blank" rel="noopener noreferrer">
+              <a class="hover_op02" href="http://ikumama-kentaku.com/" target="_blank">
                 <img 
                   src="/diversity/public/resource/img/womenomics/bnr_product01.jpg" 
                   srcset="/diversity/public/resource/img/womenomics/bnr_product01@2x.jpg, /diversity/public/resource/img/womenomics/bnr_product01@2x.jpg, "
@@ -436,7 +436,7 @@
               </a>
             </li>
             <li class="bnrArea-item">
-              <a class="hover_op02" href="https://www.dk-select.jp/cocodate-pc/" target="_blank" rel="noopener noreferrer">
+              <a class="hover_op02" href="https://www.dk-select.jp/cocodate-pc/" target="_blank">
                 <img 
                   src="/diversity/public/resource/img/womenomics/bnr_product02.jpg" 
                   srcset="/diversity/public/resource/img/womenomics/bnr_product02@2x.jpg, /diversity/public/resource/img/womenomics/bnr_product02@2x.jpg, "
@@ -445,7 +445,7 @@
               </a>
             </li>
             <li class="bnrArea-item">
-              <a class="hover_op02" href="https://www.dk-select.jp/sumai/joshigokoro/" target="_blank" rel="noopener noreferrer">
+              <a class="hover_op02" href="https://www.dk-select.jp/sumai/joshigokoro/" target="_blank">
                 <img 
                   src="/diversity/public/resource/img/womenomics/bnr_product03.jpg" 
                   srcset="/diversity/public/resource/img/womenomics/bnr_product03@2x.jpg, /diversity/public/resource/img/womenomics/bnr_product03@2x.jpg, "
@@ -454,7 +454,7 @@
               </a>
             </li>
             <li class="bnrArea-item">
-              <a class="hover_op02" href="https://www.dk-select.jp/lkurasu/" target="_blank" rel="noopener noreferrer">
+              <a class="hover_op02" href="https://www.dk-select.jp/lkurasu/" target="_blank">
                 <img 
                   src="/diversity/public/resource/img/womenomics/bnr_product04.jpg" 
                   srcset="/diversity/public/resource/img/womenomics/bnr_product04@2x.jpg, /diversity/public/resource/img/womenomics/bnr_product04@2x.jpg, "

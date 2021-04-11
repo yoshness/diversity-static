@@ -65,7 +65,7 @@
     </p>
 
     <div class="link onlySP">
-      <a class="hover_op01" href="/diversity/public/resource/document/interview.pdf" target="_blank" rel="noopener noreferrer">続きはコチラ</a>
+      <a class="hover_op01" href="/diversity/public/resource/document/interview.pdf" target="_blank">続きはコチラ</a>
     </div>
 
     <div class="imgArea">
@@ -108,7 +108,7 @@
       </div>
 
       <div class="link onlyPC">
-        <a class="hover_op01" href="https://www.realone-inc.com/voice/voice-4841/" target="_blank" rel="noopener noreferrer">調査会社リアルワン株式会社による<br>インタビューを掲載</a>
+        <a class="hover_op01" href="https://www.realone-inc.com/voice/voice-4841/" target="_blank">調査会社リアルワン株式会社による<br>インタビューを掲載</a>
       </div>
 
       <div class="graph01">
@@ -131,7 +131,7 @@
     </div>
 
       <div class="link onlySP">
-        <a class="hover_op01" href="https://www.realone-inc.com/voice/voice-4841/" target="_blank" rel="noopener noreferrer">調査会社リアルワン株式会社による<br>インタビューを掲載</a>
+        <a class="hover_op01" href="https://www.realone-inc.com/voice/voice-4841/" target="_blank">調査会社リアルワン株式会社による<br>インタビューを掲載</a>
       </div>
   </div>
 </section>
@@ -268,7 +268,7 @@
       </p>
 
       <div class="link">
-        <a class="hover_op01" href="/corporate/csr/torikumi/sakugen.html" target="_blank" rel="noopener noreferrer">詳しくはコーポレートサイトへ</a>
+        <a class="hover_op01" href="/corporate/csr/torikumi/sakugen.html" target="_blank">詳しくはコーポレートサイトへ</a>
       </div>
     </div>
   </div>

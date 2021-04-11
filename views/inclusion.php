@@ -157,14 +157,14 @@
         <p class="imgbox-txt">
           本大会は、当社グループにおける障がい者雇用から生まれたオリジナル手話を活用し、障がい者スポーツへの理解促進を図ることを目的に開催されました。合計130名（大東建託グループ従業員69名・野村證券従業員61名）が参加し、白熱したイベントになりました。（主催は、アスリート支援「TEAM DAITO」による）
         </p>
-        <p class="bocha-link upto751"><a href="/corporate/pr/info/2019/aqehc4000000ce4n-att/teamdaito_bottya_20190930.pdf" target="_blank" rel="noopener noreferrer">ニュースリリースはこちら</a></p>
+        <p class="bocha-link upto751"><a href="/corporate/pr/info/2019/aqehc4000000ce4n-att/teamdaito_bottya_20190930.pdf" target="_blank">ニュースリリースはこちら</a></p>
       </div><!-- /box -->
 
-      <p class="bocha-link from751"><a href="/corporate/pr/info/2019/aqehc4000000ce4n-att/teamdaito_bottya_20190930.pdf" target="_blank" rel="noopener noreferrer" class="hover_op01">ニュースリリースはこちら</a>
+      <p class="bocha-link from751"><a href="/corporate/pr/info/2019/aqehc4000000ce4n-att/teamdaito_bottya_20190930.pdf" target="_blank" class="hover_op01">ニュースリリースはこちら</a>
       </p>
 
       <div class="block">
-        <a class="block-img" href="https://team-daito.com/" target="_blank" rel="noopener noreferrer" >
+        <a class="block-img" href="https://team-daito.com/" target="_blank" >
           <img 
             src="/diversity/public/resource/img/inclusion/bnr_bocha01.png"
             srcset="/diversity/public/resource/img/inclusion/bnr_bocha01.png 1x, 
@@ -200,7 +200,7 @@
     <p class="foreigner-txt">
       2014年より、ベトナム人技能実習生の受け入れ支援を実施しています。実習生が受け入れ先企業で、安全に、実践的な技術・技能等を習得できるよう、教育、メンタル面のサポート、賃貸住宅の家賃補助、日本語教育ツール（eラーニング）の提供等の支援を行っています。2019年3月からは、新たにインドネシア人技能実習生の受け入れ支援も開始しており、2021年までに総数1,000名の受け入れを計画しています。
     </p>
-    <p class="link"><a class="hover_op01" href="/corporate/pr/info/2018/aqehc4000000abwo-att/ginojisshusei_1226.pdf" target="_blank" rel="noopener noreferrer">ニュースリリースはこちら</a>
+    <p class="link"><a class="hover_op01" href="/corporate/pr/info/2018/aqehc4000000abwo-att/ginojisshusei_1226.pdf" target="_blank">ニュースリリースはこちら</a>
     </p>
     <ul class="imgList">
       <li class="imgList-item">
