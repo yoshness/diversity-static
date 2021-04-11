@@ -139,7 +139,7 @@
         <!-- linkArea -->
         <div class="linkArea">
           <p class="linkArea-tit">詳しくはこちら</p>
-          <a class="linkArea-img hover_op02" href="https://work-life-b.co.jp/mens_ikukyu_100/" target="_blank" >
+          <a class="linkArea-img hover_op02" href="https://work-life-b.co.jp/mens_ikukyu_100/" target="_blank">
             <img
               src="/diversity/public/resource/img/work-life-balance/bnr_promotion01.jpg"
               srcset="

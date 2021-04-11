@@ -164,7 +164,7 @@
       </p>
 
       <div class="block">
-        <a class="block-img" href="https://team-daito.com/" target="_blank" >
+        <a class="block-img" href="https://team-daito.com/" target="_blank">
           <img 
             src="/diversity/public/resource/img/inclusion/bnr_bocha01.png"
             srcset="/diversity/public/resource/img/inclusion/bnr_bocha01.png 1x, 

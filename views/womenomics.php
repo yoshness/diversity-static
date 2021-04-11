@@ -128,16 +128,14 @@
         >
           コーポレートサイトはこちら
         </a><br class="onlySP">
-        <a  class="hover_op01" 
-            href="/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" 
-            target="_blank" 
-           
+        <a 
+          class="hover_op01" 
+          href="/corporate/pr/info/2020/aqehc4000000e51q-att/worklifebalance_0213.pdf" 
+          target="_blank" 
         >
           ニュースレターはこちら
         </a><br class="onlySP">
-        <a class="hover_op01" 
-          href="/diversity/work-life-balance/#nursing-system"
-        >
+        <a class="hover_op01" href="/diversity/work-life-balance/#nursing-system">
           プロジェクトから誕生した制度はこちら
         </a>
       </div>
