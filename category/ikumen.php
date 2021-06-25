@@ -57,7 +57,22 @@
 						</h3>
 					</a>
 				</li>
-							</ul>
+				<li class="interview-block">
+					<a href="/diversity/interview/matsumi-toshihide/">
+						<div class="interview-block__image">
+							<div class="interview-block__img u-bg-fill" style="background-image: url(/diversity/uploads/2021/06/matsumi-toshihide-1.jpg);"></div>
+						</div>
+						<p class="interview-block__tagline">出産も⽴ち会ったイクメン<br>予防接種は育休を活⽤</p>
+						<p class="interview-block__company">本社</p>
+						<span class="interview-block__department">技術開発部</span>
+						<span class="interview-block__position">購買管理課</span>
+						<h3 class="interview-block__name">
+							<span class="interview-block__name-ja">松⾒ 俊秀</span>
+							<span class="interview-block__name-en">MATSUMI TOSHIHIDE</span>
+						</h3>
+					</a>
+				</li>
+			</ul>
 			<p class="l-interview__note">※所属・役職は2021年3月時点</p>
 		</div>
 	</section>

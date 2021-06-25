@@ -68,6 +68,10 @@
 		    case '/diversity/interview/edamatsu-tomoko/':
 		        require __DIR__ . '/detail/edamatsu-tomoko.php';
 		        break;
+		    case '/diversity/interview/matsumi-toshihide':
+		    case '/diversity/interview/matsumi-toshihide/':
+		        require __DIR__ . '/detail/matsumi-toshihide.php';
+		        break;
 		    case '/diversity/interview-category/%e3%83%80%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b7%e3%83%86%e3%82%a3%e3%83%9e%e3%83%8d%e3%82%b8%e3%83%a1%e3%83%b3%e3%83%88/':
 		        require __DIR__ . '/category/diversity-management.php';
 		        break;
